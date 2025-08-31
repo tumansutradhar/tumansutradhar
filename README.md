@@ -13,11 +13,11 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 30/08/2025, 17:01:26 |
+| `> user:` tumansutradhar | `> last_updated:` 31/08/2025, 06:11:55 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 6 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 7 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 08ee3da - feat: Add dynamic GitHub profile with real-time stats and terminal styling | `> status:` online |
+| `> current_commit:` da92076 - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
@@ -28,15 +28,15 @@ $ git status --porcelain --all-repos
  A final push
 
 ## edu_manage...origin/main
- M feat: complete EduManage course manageme...
+ A feat: complete EduManage course manageme...
 
 ## bus_finder...origin/main
- A Update README.md
  M Update README.md
- M add slider images and update readme file
+ M Update README.md
+ A add slider images and update readme file
 
 ## hackforge_srijan...origin/main
- A add backend
+ M add backend
  A add styling
  A add registraion page
 
@@ -131,7 +131,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 08ee3da - feat: Add dynamic GitHub profile with real-time stats and terminal styling
+> last_commit: da92076 - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -141,5 +141,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: August 30th 2025, 5:01:26 pm IST | Commit: 08ee3da - feat: Add dynamic GitHub profile with real-time stats and terminal styling | Auto-generated every 6 hours</sub>
+<sub>Last updated: August 31st 2025, 6:11:55 am IST | Commit: da92076 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
