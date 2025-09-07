@@ -13,11 +13,11 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 31/08/2025, 06:11:55 |
+| `> user:` tumansutradhar | `> last_updated:` 07/09/2025, 06:11:24 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
 | `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 7 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` da92076 - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` 9752e31 - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
@@ -35,24 +35,23 @@ $ git status --porcelain --all-repos
  M Update README.md
  A add slider images and update readme file
 
-## hackforge_srijan...origin/main
- M add backend
- A add styling
- A add registraion page
-
 ```
 
 ## REAL-TIME ACTIVITY MONITOR
 
 ```bash
 $ tail -f ~/.git_activity.log
+[2025-08-30 05:18:01 PM] COMMIT: "Merge pull request #18 from ranadebsaha/ranadeb
+
+u..." → status_code_2
+[2025-08-30 05:17:45 PM] COMMIT: "Merge pull request #18 from ranadebsaha/ranadeb
+
+u..." → status_code_2
+[2025-08-30 05:01:08 PM] COMMIT: "feat: Add dynamic GitHub profile with real-time st..." → tumansutradhar
 [2025-08-24 01:17:52 AM] COMMIT: "Merge pull request #11 from Sharanya-100/sharanya
 ..." → status_code_2
 [2025-08-24 01:17:42 AM] COMMIT: "Merge pull request #11 from Sharanya-100/sharanya
 ..." → status_code_2
-[2025-08-23 03:54:26 PM] COMMIT: "updated home" → status_code_2
-[2025-08-23 03:33:38 PM] COMMIT: "Merge pull request #3 from tumansutradhar/tumansut..." → status_code_2
-[2025-08-23 03:33:27 PM] COMMIT: "Merge pull request #3 from tumansutradhar/tumansut..." → status_code_2
 ```
 
 ## PERFORMANCE METRICS
@@ -131,7 +130,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: da92076 - Auto-update dynamic README
+> last_commit: 9752e31 - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -141,5 +140,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: August 31st 2025, 6:11:55 am IST | Commit: da92076 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: September 7th 2025, 6:11:24 am IST | Commit: 9752e31 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
