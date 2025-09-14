@@ -13,27 +13,22 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 07/09/2025, 06:11:24 |
+| `> user:` tumansutradhar | `> last_updated:` 14/09/2025, 06:10:24 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 7 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 14 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 9752e31 - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` 3d149d6 - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
 
 ```bash
 $ git status --porcelain --all-repos
-## inbox3...origin/main
- A final push
-
 ## edu_manage...origin/main
- A feat: complete EduManage course manageme...
+ M feat: complete EduManage course manageme...
 
-## bus_finder...origin/main
- M Update README.md
- M Update README.md
- A add slider images and update readme file
+## inbox3...origin/main
+ M final push
 
 ```
 
@@ -130,7 +125,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 9752e31 - Auto-update dynamic README
+> last_commit: 3d149d6 - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -140,5 +135,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: September 7th 2025, 6:11:24 am IST | Commit: 9752e31 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: September 14th 2025, 6:10:24 am IST | Commit: 3d149d6 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
