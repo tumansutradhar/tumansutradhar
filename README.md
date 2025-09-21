@@ -13,19 +13,22 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 14/09/2025, 06:10:24 |
+| `> user:` tumansutradhar | `> last_updated:` 21/09/2025, 06:11:39 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 14 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 6 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 3d149d6 - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` 202b2e2 - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
 
 ```bash
 $ git status --porcelain --all-repos
+## interactive_portfolio...origin/main
+ A docs: add initial README.md
+
 ## edu_manage...origin/main
- M feat: complete EduManage course manageme...
+ A feat: complete EduManage course manageme...
 
 ## inbox3...origin/main
  M final push
@@ -36,6 +39,7 @@ $ git status --porcelain --all-repos
 
 ```bash
 $ tail -f ~/.git_activity.log
+[2025-09-14 12:37:05 PM] COMMIT: "Readme" → chrono_forge
 [2025-08-30 05:18:01 PM] COMMIT: "Merge pull request #18 from ranadebsaha/ranadeb
 
 u..." → status_code_2
@@ -44,8 +48,6 @@ u..." → status_code_2
 u..." → status_code_2
 [2025-08-30 05:01:08 PM] COMMIT: "feat: Add dynamic GitHub profile with real-time st..." → tumansutradhar
 [2025-08-24 01:17:52 AM] COMMIT: "Merge pull request #11 from Sharanya-100/sharanya
-..." → status_code_2
-[2025-08-24 01:17:42 AM] COMMIT: "Merge pull request #11 from Sharanya-100/sharanya
 ..." → status_code_2
 ```
 
@@ -56,11 +58,11 @@ $ analyze-code-metrics --languages --graph
 ┌─────────────┬──────────────────────────┬─────────┐
 │ Language    │ Usage Graph (Real Data)  │ Percent │
 ├─────────────┼──────────────────────────┼─────────┤
-│ TypeScript  │ ██████████░░░░░░░░░░     │ 50.3%   │
-│ JavaScript  │ ██████░░░░░░░░░░░░░░     │ 29.8%   │
-│ PHP         │ █░░░░░░░░░░░░░░░░░░░     │ 4.6%    │
+│ TypeScript  │ ██████████░░░░░░░░░░     │ 51.3%   │
+│ JavaScript  │ ██████░░░░░░░░░░░░░░     │ 30.4%   │
+│ PHP         │ █░░░░░░░░░░░░░░░░░░░     │ 4.7%    │
 │ Java        │ █░░░░░░░░░░░░░░░░░░░     │ 4.5%    │
-│ CSS         │ █░░░░░░░░░░░░░░░░░░░     │ 4.0%    │
+│ CSS         │ █░░░░░░░░░░░░░░░░░░░     │ 2.8%    │
 └─────────────┴──────────────────────────┴─────────┘
 
 $ system-info --stack
@@ -125,7 +127,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 3d149d6 - Auto-update dynamic README
+> last_commit: 202b2e2 - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -135,5 +137,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: September 14th 2025, 6:10:24 am IST | Commit: 3d149d6 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: September 21st 2025, 6:11:39 am IST | Commit: 202b2e2 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
