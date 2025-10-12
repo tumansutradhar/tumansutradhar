@@ -13,11 +13,11 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 05/10/2025, 06:11:30 |
+| `> user:` tumansutradhar | `> last_updated:` 12/10/2025, 06:09:35 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 8 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 15 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 79b2f09 - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` d670e2d - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
@@ -25,7 +25,7 @@ $ echo 'initializing dynamic profile shell...'
 ```bash
 $ git status --porcelain --all-repos
 ## interactive_portfolio...origin/main
- M Add index.html and assets folder
+ A Add index.html and assets folder
  M docs: add initial README.md
 
 ## edu_manage...origin/main
@@ -117,7 +117,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 79b2f09 - Auto-update dynamic README
+> last_commit: d670e2d - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -127,5 +127,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: October 5th 2025, 6:11:30 am IST | Commit: 79b2f09 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: October 12th 2025, 6:09:35 am IST | Commit: d670e2d - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
