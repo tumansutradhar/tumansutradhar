@@ -13,11 +13,11 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 12/10/2025, 06:09:35 |
+| `> user:` tumansutradhar | `> last_updated:` 19/10/2025, 06:13:11 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 15 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 22 days ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` d670e2d - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` 11c3617 - Auto-update dynamic README | `> status:` online |
 
 
 ## LIVE REPOSITORY STATUS
@@ -28,17 +28,14 @@ $ git status --porcelain --all-repos
  A Add index.html and assets folder
  M docs: add initial README.md
 
-## edu_manage...origin/main
- M feat: complete EduManage course manageme...
-
 ```
 
 ## REAL-TIME ACTIVITY MONITOR
 
 ```bash
 $ tail -f ~/.git_activity.log
-[2025-09-26 10:10:54 PM] COMMIT: "Add index.html and assets folder" → interactive_portfolio
-[2025-09-14 12:37:05 PM] COMMIT: "Readme" → chrono_forge
+[2025-10-19 04:13:06 AM] COMMIT: "Add dynamic README automation" → analyze-code
+[2025-10-19 01:13:06 AM] COMMIT: "Fix terminal styling issues" → readme
 ```
 
 ## PERFORMANCE METRICS
@@ -117,7 +114,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: d670e2d - Auto-update dynamic README
+> last_commit: 11c3617 - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -127,5 +124,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: October 12th 2025, 6:09:35 am IST | Commit: d670e2d - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: October 19th 2025, 6:13:11 am IST | Commit: 11c3617 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
