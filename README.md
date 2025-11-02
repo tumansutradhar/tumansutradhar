@@ -13,29 +13,19 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 26/10/2025, 06:12:18 |
+| `> user:` tumansutradhar | `> last_updated:` 02/11/2025, 06:12:55 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
-| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 29 days ago |
+| `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 2 hours ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 10c13c0 - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` c77ff2b - Auto-update dynamic README | `> status:` online |
 
 
-## LIVE REPOSITORY STATUS
-
-```bash
-$ git status --porcelain --all-repos
-## interactive_portfolio...origin/main
- A Add index.html and assets folder
- M docs: add initial README.md
-
-```
 
 ## REAL-TIME ACTIVITY MONITOR
 
 ```bash
 $ tail -f ~/.git_activity.log
-[2025-10-26 04:12:13 AM] COMMIT: "Add dynamic README automation" → analyze-code
-[2025-10-26 01:12:13 AM] COMMIT: "Fix terminal styling issues" → readme
+[2025-11-02 06:12:50 AM] COMMIT: "No recent activity detected" → profile
 ```
 
 ## PERFORMANCE METRICS
@@ -114,7 +104,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 10c13c0 - Auto-update dynamic README
+> last_commit: c77ff2b - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -124,5 +114,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: October 26th 2025, 6:12:18 am IST | Commit: 10c13c0 - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: November 2nd 2025, 6:12:55 am IST | Commit: c77ff2b - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
