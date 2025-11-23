@@ -13,11 +13,11 @@ $ echo 'initializing dynamic profile shell...'
 
 | WHO AM I | LIVE STATUS |
 |----------|-------------|
-| `> user:` tumansutradhar | `> last_updated:` 16/11/2025, 06:13:59 |
+| `> user:` tumansutradhar | `> last_updated:` 23/11/2025, 06:16:54 |
 | `> role:` IT student · Frontend Developer · Open-Source Contributor | `> timezone:` IST (GMT+5:30) |
 | `> focus:` React.js · Tailwind CSS · Web Development · UI/UX | `> last_commit:` 2 hours ago |
 | `> mood:` compiling chaos into clean output | `> response_time:` ~2-4 hours |
-| `> current_commit:` 6ca6cdb - Auto-update dynamic README | `> status:` online |
+| `> current_commit:` 429abbf - Auto-update dynamic README | `> status:` online |
 
 
 
@@ -25,7 +25,7 @@ $ echo 'initializing dynamic profile shell...'
 
 ```bash
 $ tail -f ~/.git_activity.log
-[2025-11-16 06:13:56 AM] COMMIT: "No recent activity detected" → profile
+[2025-11-23 06:16:49 AM] COMMIT: "No recent activity detected" → profile
 ```
 
 ## PERFORMANCE METRICS
@@ -104,7 +104,7 @@ EOF
 
 $ exit
 > session terminated gracefully
-> last_commit: 6ca6cdb - Auto-update dynamic README
+> last_commit: 429abbf - Auto-update dynamic README
 > status: ready for next connection
 > goodbye!
 ```
@@ -114,5 +114,5 @@ $ echo "Thanks for visiting! Don't forget to ⭐ star interesting repos!"
 ```
 
 <div align="center">
-<sub>Last updated: November 16th 2025, 6:13:59 am IST | Commit: 6ca6cdb - Auto-update dynamic README | Auto-generated every 6 hours</sub>
+<sub>Last updated: November 23rd 2025, 6:16:54 am IST | Commit: 429abbf - Auto-update dynamic README | Auto-generated every 6 hours</sub>
 </div>
