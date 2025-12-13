@@ -17,10 +17,10 @@ JavaScript | React.js | Tailwind CSS | HTML5 | CSS3 | Figma | Git
 
 ## Connect With Me
 
-LinkedIn: [linkedin.com/in/tumansutradhar](https://www.linkedin.com/in/tumansutradhar)
-Twitter: [x.com/tumansutradhar](https://x.com/tumansutradhar)
-Portfolio: [tumansutradhar.me](https://tumansutradhar.me/)
-Instagram: [instagram.com/tumansutradhar](https://instagram.com/tumansutradhar)
-Telegram: [@tumansutradhar](https://t.me/tumansutradhar)
-Discord: tumansutradhar
+LinkedIn: [linkedin.com/in/tumansutradhar](https://www.linkedin.com/in/tumansutradhar)<br>
+Twitter: [x.com/tumansutradhar](https://x.com/tumansutradhar)<br>
+Portfolio: [tumansutradhar.me](https://tumansutradhar.me/)<br>
+Instagram: [instagram.com/tumansutradhar](https://instagram.com/tumansutradhar)<br>
+Telegram: [@tumansutradhar](https://t.me/tumansutradhar)<br>
+Discord: tumansutradhar<br>
 Email: [connect.tuman@gmail.com](mailto:connect.tuman@gmail.com)
